@@ -1,6 +1,6 @@
 # ITAI2373-NewsBot-Midterm: Market NewsBot Intelligence System
 
-**Author:** Wayne Lu (individual project, no team members)  
+**Author:** Wayne Lu  
 **Date:** October 17, 2026  
 **Course:** ITAI 2373, Natural Language Processing, Houston Community College  
 **Instructor:** Professor Sridhar Ganti  
@@ -18,7 +18,7 @@
 > ⚠️ Informational only, not investment, tax, or legal advice.
 
 ## Overview
-An NLP system for market and financial news, built for individual investors and small-business owners. It covers all of Modules 1-8:
+An NLP system for market and financial news, built for everyday investors and small-business owners. It covers all of Modules 1-8:
 preprocessing → TF-IDF (tuned) → POS patterns → dependency parsing/SVO → sentiment (VADER + trained Bullish/Bearish/Neutral model, emotion lexicon)
 → multi-class classification (NB, Complement NB, LogReg, Linear SVM, tuned SVM+chi²) → NER (spaCy + custom TICKER/PERCENT rules)
 → integrated `NewsBotIntelligenceSystem` with watchlist matching, same-day alerts, ethics badges and a weekly Monday digest.
@@ -65,7 +65,7 @@ Account numbers are redacted. Only official RSS feeds are used, with a declared 
 - `REFLECTION.md`, `REPORT.md` and their PDF copies.
 
 ## My contributions
-This was an individual project, so I (Wayne Lu) did all of it: the business case and watchlist, data selection, cleaning and duplicate removal, TF-IDF, POS, and syntax analysis, sentiment, the classifier comparison, NER, the integrated NewsBot (alerts, ethics filter, Monday digest), the repository, the video, the report, and the reflection. I used an AI assistant to help write and debug code, as the course allows.
+I built this project myself, so I did all of it: the business case and watchlist, data selection, cleaning and duplicate removal, TF-IDF, POS, and syntax analysis, sentiment, the classifier comparison, NER, the integrated NewsBot (alerts, ethics filter, Monday digest), the repository, the video, the report, and the reflection. I used an AI assistant to help write and debug code, as the course allows.
 
 ## How to run
 Open `MarketNewsBot.ipynb` in Google Colab or Jupyter and run all cells (uncomment the `pip install` line in the first code cell on Colab). Reuters loads from the NLTK data mirror and Financial PhraseBank from Hugging Face, so no Kaggle login is needed. The cached embeddings in `data/` keep the run short on a CPU.

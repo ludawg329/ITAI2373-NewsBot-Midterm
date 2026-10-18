@@ -17,7 +17,7 @@ I built this to follow market news for trading and business decisions. Every day
 
 **Ethical considerations:** automated news reading has real risks. A wrong label or tone score could push someone into a bad trade, so every output says it is informational only and not investment, tax, or legal advice. The tone checker is right about 78% of the time (a basic word-list tool scored 56%), so roughly one in five calls is wrong. Some employers also restrict which stocks their staff can hold, so I added a restricted list. The bot blocks or flags those names (in my example list, Boeing, Lockheed Martin, and SpaceX) and shows them as news only, never as a trade idea. Last, the bot only reads public, official feeds and never scrapes paid content.
 
-## Individual Contributions
+## My Contributions
 Since I worked alone, I was responsible for all of it: the business case, collecting and cleaning the data, removing duplicates, the word-importance and grammar analysis, sentence structure, tone scoring, topic sorting and model comparison, finding names and numbers, the watchlist, alerts, ethics filter, Monday digest, the GitHub repository, the report, the video demo, and this reflection.
 
 ## Future Enhancements

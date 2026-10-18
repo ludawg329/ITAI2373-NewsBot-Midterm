@@ -31,9 +31,9 @@ nlp = spacy.load('en_core_web_sm')
 plt.rcParams['figure.figsize'] = (10, 5)
 DISCLAIMER = "Informational only, not investment, tax, or legal advice."
 print("✅ Libraries loaded |", DISCLAIMER)'''
-EXTRA_AFTER_4=['''### 💼 Business Case: Market NewsBot for Individual Investors & Small-Business Owners
+EXTRA_AFTER_4=['''### 💼 Business Case: Market NewsBot for Everyday Investors & Small-Business Owners
 
-**Target user:** an individual investor or trader who follows a watchlist (for example TSLA, HOOD, index and chip stocks), or a small-business owner who needs market, rate, and small-business news.
+**Target user:** an everyday investor or trader who follows a watchlist (for example TSLA, HOOD, index and chip stocks), or a small-business owner who needs market, rate, and small-business news.
 
 **Problem:** hundreds of market headlines per day; only a few move positions, taxes, or business plans.
 

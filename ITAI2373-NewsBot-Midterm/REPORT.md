@@ -1,6 +1,6 @@
 # Market NewsBot Intelligence System: Midterm Report
 
-**Author:** Wayne Lu (individual project)  
+**Author:** Wayne Lu  
 **Course:** ITAI 2373, Natural Language Processing, Houston Community College  
 **Instructor:** Professor Sridhar Ganti  
 **Date:** October 17, 2026  
@@ -13,7 +13,7 @@
 I built a NewsBot that reads market news, sorts each article into a topic, scores its tone as bullish, bearish, or neutral, pulls out the people, companies, places, dates, and dollar amounts, and checks it against a watchlist. It is trained on 1,703 full Reuters news articles in six market topics. I compared eight ways of sorting articles and let the scores pick the winner. The winner was right 95.0% of the time on 341 articles it had never seen. My tone checker was right 78% of the time, compared with 56% for a basic word-list tool. The whole project runs on free tools in one Jupyter notebook.
 
 ## 2. The Problem and Who It Is For (Module 1)
-Every day there are hundreds of market headlines, and only a few affect a given investor's positions, taxes, or business plans. Reading all of them is not realistic for most people. The target user is an individual investor or trader, or a small business owner, who needs the important news pulled out and labeled.
+Every day there are hundreds of market headlines, and only a few affect a given investor's positions, taxes, or business plans. Reading all of them is not realistic for most people. The target user is an everyday investor or trader, or a small business owner, who needs the important news pulled out and labeled.
 
 The bot follows an example watchlist I set up: TSLA and HOOD; AI, chip, and robotics companies; data center builds; space stocks; Starlink's move into phone service; the big three U.S. carriers and international carriers; and Fed and economy news. Any report of a Tesla and SpaceX merger gets a priority alert. The bot builds a Monday digest and keeps business news separate from trading news. Large companies pay for news tools like this from Bloomberg and Refinitiv. This is a free, personal version.
 
