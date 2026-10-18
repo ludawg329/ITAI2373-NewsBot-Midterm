@@ -1,0 +1,33 @@
+# Secrets / credentials
+kaggle.json
+**/kaggle.json
+.env
+.env.*
+*.pem
+*.key
+credentials*
+secrets*
+
+# Python / notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+*.egg-info/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local-only sample attachments for instructor email (do not commit)
+reuters_sample_articles.docx
+reuters_sample_articles.txt
+*_sample_articles.*
+
+# Large / temp
+*.zip
+*.tar.gz
+.cache/
