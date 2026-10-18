@@ -7,7 +7,7 @@
 **GitHub Repository:** https://github.com/ludawg329/ITAI2373-NewsBot-Midterm
 
 ### 🎥 Video demo
-**[▶ Watch the narrated demo (MT_Video_Wayne_Lu_ITAI2373.mp4, 5:13)](demo/MT_Video_Wayne_Lu_ITAI2373.mp4)**. It is hosted in this repo, and GitHub plays it in the browser.
+**Video demo (MT_Video_Wayne_Lu_ITAI2373): [▶ Watch on Google Drive](https://drive.google.com/file/d/1LzK4pnQjD2_BJWwEYr7jhDtCB8t2vte5/view)** (5:13). Backup: [GitHub copy](demo/MT_Video_Wayne_Lu_ITAI2373.mp4) in this repo's `demo/` folder.
 
 ### 📄 Deliverables
 - Notebook: [`MarketNewsBot.ipynb`](MarketNewsBot.ipynb) (Modules 1-8, executed with outputs; reflection and report are also at the end)
