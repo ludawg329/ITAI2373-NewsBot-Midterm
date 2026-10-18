@@ -2,7 +2,7 @@
 
 **Author:** Wayne Lu · **Date:** October 17, 2026 · **Course:** ITAI 2373, Houston Community College · **Instructor:** Professor Sridhar Ganti
 
-**🎥 Video demo:** [MT_Video_Group_Individual_Wayne_Lu_ITAI2373.mp4](ITAI2373-NewsBot-Midterm/demo/MT_Video_Group_Individual_Wayne_Lu_ITAI2373.mp4) (5:13)
+**🎥 Video demo:** [MT_Video_Wayne_Lu_ITAI2373.mp4](ITAI2373-NewsBot-Midterm/demo/MT_Video_Wayne_Lu_ITAI2373.mp4) (5:13)
 
 The project lives in [`ITAI2373-NewsBot-Midterm/`](ITAI2373-NewsBot-Midterm/), the folder name the course requires.
 

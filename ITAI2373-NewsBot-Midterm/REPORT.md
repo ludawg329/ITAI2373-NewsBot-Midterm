@@ -5,7 +5,7 @@
 **Instructor:** Professor Sridhar Ganti  
 **Date:** October 17, 2026  
 **GitHub repository:** <https://github.com/ludawg329/ITAI2373-NewsBot-Midterm>  
-**Video demo:** [MT_Video_Group_Individual_Wayne_Lu_ITAI2373.mp4](https://github.com/ludawg329/ITAI2373-NewsBot-Midterm/blob/main/ITAI2373-NewsBot-Midterm/demo/MT_Video_Group_Individual_Wayne_Lu_ITAI2373.mp4) (about 5 minutes, in the repo's `demo/` folder)  
+**Video demo:** [MT_Video_Wayne_Lu_ITAI2373.mp4](https://github.com/ludawg329/ITAI2373-NewsBot-Midterm/blob/main/ITAI2373-NewsBot-Midterm/demo/MT_Video_Wayne_Lu_ITAI2373.mp4) (about 5 minutes, in the repo's `demo/` folder)  
 
 > Informational only, not investment, tax, or legal advice.
 
