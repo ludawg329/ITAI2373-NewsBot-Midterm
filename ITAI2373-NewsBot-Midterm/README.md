@@ -12,7 +12,7 @@
 ### 📄 Deliverables
 - Notebook: [`MarketNewsBot.ipynb`](MarketNewsBot.ipynb) (Modules 1-8, executed with outputs; reflection and report are also at the end)
 - Reflection (2 pages): [`REFLECTION.md`](REFLECTION.md) · [`NewsBot_Reflection_WayneLu.pdf`](NewsBot_Reflection_WayneLu.pdf)
-- Report: [`REPORT.md`](REPORT.md) · [`MT_Report_Group_Individual_Wayne_Lu_ITAI2373.pdf`](MT_Report_Group_Individual_Wayne_Lu_ITAI2373.pdf)
+- Report: [`REPORT.md`](REPORT.md) · [`MT_Report_Wayne_Lu_ITAI2373.pdf`](MT_Report_Wayne_Lu_ITAI2373.pdf)
 - Live demo script: [`demo/live_demo.py`](demo/live_demo.py)
 
 > ⚠️ Informational only, not investment, tax, or legal advice.

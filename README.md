@@ -9,7 +9,7 @@ The project lives in [`ITAI2373-NewsBot-Midterm/`](ITAI2373-NewsBot-Midterm/), t
 - [`MarketNewsBot.ipynb`](ITAI2373-NewsBot-Midterm/MarketNewsBot.ipynb): main notebook (Modules 1-8, executed with outputs, plus the reflection and report at the end)
 - [`README.md`](ITAI2373-NewsBot-Midterm/README.md): project overview, results, and my contributions
 - [`REFLECTION.md`](ITAI2373-NewsBot-Midterm/REFLECTION.md) / [PDF](ITAI2373-NewsBot-Midterm/NewsBot_Reflection_WayneLu.pdf): 2-page reflection
-- [`REPORT.md`](ITAI2373-NewsBot-Midterm/REPORT.md) / [PDF](ITAI2373-NewsBot-Midterm/MT_Report_Group_Individual_Wayne_Lu_ITAI2373.pdf): written report
+- [`REPORT.md`](ITAI2373-NewsBot-Midterm/REPORT.md) / [PDF](ITAI2373-NewsBot-Midterm/MT_Report_Wayne_Lu_ITAI2373.pdf): written report
 - [`data/`](ITAI2373-NewsBot-Midterm/data/): 1,703 Reuters articles and cached sentence embeddings
 - [`demo/`](ITAI2373-NewsBot-Midterm/demo/): video and live demo script
 - [`src/`](ITAI2373-NewsBot-Midterm/src/): notebook build scripts
